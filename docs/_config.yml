@@ -1,0 +1,13 @@
+remote_theme: kitian616/jekyll-text-theme
+
+title: DIU EIL - Bloc 3
+
+author:
+  type: "organization"
+  name: Département Informatique - Université de Bordeaux
+
+repository: diu-uf-bordeaux/bloc3
+repository_tree: master
+
+text_skin: "ub"
+highlight_theme: default
