@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Architectures matérielles
+title: Robotique et systèmes embarqués
 ---
 
 # Ressources en ligne
