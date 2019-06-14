@@ -4,7 +4,7 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 ---
 
 - [Architecture des circuits](./archi)
-- [Robotique et systèmes embarqués](#)
+- [Robotique et systèmes embarqués](./robot)
 - [Systèmes d'exploitation](#)
 - [Réseaux](https://moodle1.u-bordeaux.fr/course/view.php?id=4713)
 
