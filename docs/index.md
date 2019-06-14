@@ -14,10 +14,41 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 - TODO
 
 ### Robotique et systèmes embarqués
-- TODO
+
+#### SOCs
+
+- Comparaison de différents types de SOCs
+- Définition d'un cas d'usage et choix et justification du SOC adapté (exemple : choix du SOC pour un pilotage de capteur de son)
+- Etude comparative de différents modèles de SOCs Arduino
+
+#### Capteurs
+
+- Captation d'une donnée numérique
+- Captation d'une donnée analogique
+- Fabrication et test d'un capteur
+- Intégration d'un capteur, filtre de Kalman
+
+#### Actuateurs
+
+- Contrôle d'une LED
+- Contrôle d'un servo moteur asservi à un capteur donné (exemple : fermeture d'un volet quand la nuit tombe)
+
+#### Systèmes intégrés
+
+- Création d'un dispositif multi-capteurs pour réaliser une fonction donnée (exemple : capteur de détection de son et de lumière, type système d'alarme)
+- Création d'un robot mobile autonome
+- Arbre de Noel à base de LEDs (clignotement)
+- Détecteur d'ouverture de porte
+- Système "fuyant" en présence de bruit/lumière
 
 ### Systèmes d'exploitation
 - TODO
 
 ### Réseaux
-- TODO
+- Fiabilisation des communications : code détecteur d'erreurs. Du bit de parité (simple et double) au CRC
+- Fiabilisation des communications : du bit alterné au numéro de séquence TCP
+- Internet décentralisé et le routage
+- Paiement sécurisé sur Internet (HTTPS)
+- Encapsulation des protocoles : exemple de HTTP
+- Sous-réseaux IP
+- IPv6
