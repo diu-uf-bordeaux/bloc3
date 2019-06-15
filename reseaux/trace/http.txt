@@ -1,0 +1,11 @@
+
+root@mydebian:~# wget --no-http-keep-alive http://perdu.com
+Connecting to perdu.com (perdu.com)|208.97.177.124|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204 [text/html]
+Saving to: ‘index.html’
+
+root@mydebian:~# cat index.html 
+<html><head><title>Vous Etes Perdu ?</title></head><body><h1>Perdu sur l'Internet ?</h1><h2>Pas de panique, on va vous aider</h2><strong><pre>    * <----- vous &ecirc;tes ici</pre></strong></body></html>
+
+

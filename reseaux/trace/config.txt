@@ -1,0 +1,29 @@
+root@mydebian:~$ ifconfig
+
+eth0: flags=4163<UP,BROADCAST,RUNNING,  MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0    broadcast 10.0.2.255
+        ether 08:00:27:0b:03:37  txqueuelen   1000  (Ethernet)
+        RX packets 60  bytes 8043 (7.8 KiB)
+        RX errors 0  dropped 0  overruns 0    frame 0
+        TX packets 63  bytes 10204 (9.9 KiB)
+        TX errors 0  dropped 0 overruns 0    carrier 0  collisions 0
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        loop  txqueuelen 1  (Local Loopback)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0    frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0    carrier 0  collisions 0
+
+root@mydebian:~$ route -n
+
+Kernel IP routing table
+Destination     Gateway         Genmask           Flags Metric Ref    Use Iface
+0.0.0.0         10.0.2.2        0.0.0.0           UG    0      0        0 eth0
+10.0.2.0        0.0.0.0         255.255.255.0     U     0      0        0 eth0
+
+root@mydebian:~$ cat /etc/resolv.conf
+
+nameserver 192.168.1.1
+
+
