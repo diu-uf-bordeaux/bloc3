@@ -3,7 +3,7 @@
 import sys
 from scapy.all import *
 
-ping = IP(dst='www.google.com')/ICMP()
+ping = IP(dst='www.google.com')/ICMP(type='echo-request')
 ping.show()
 pong = sr1(ping)
 pong.show()
