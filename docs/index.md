@@ -11,7 +11,14 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 ## Suggestion de thématiques pour le projet
 
 ### Architecture des circuits
-- TODO
+- Représentation binaire des entiers relatifs
+- Notion de test et de branchement conditionnel
+- Réalisation des boucles usuelles en assembleur (for, while, do-while)
+- Manipulation des tableaux
+- La pile et l'appel de fonctions
+- l'unité arithmétique et logique d'un processeur
+- implémentation des registres dans un processeur
+- ...
 
 ### Robotique et systèmes embarqués
 
