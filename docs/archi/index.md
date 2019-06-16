@@ -3,30 +3,29 @@ layout: article
 title: Architectures matérielles
 ---
 
-L'objet de ce module est de découvrir les notions d'architectures des processeurs ainsi que des notions d'assembleurs et de circuits logiques.
+L’objet de ce module est d’explorer l’architecture des ordinateurs. Une
+première partie est dédié à la programmation d’un processeur en
+langage assembleur. La seconde partie s’attache à décrire
+l’organisation des principaux circuits combinatoires et séquentiels
+formant un microprocesseur.
 
-# Assembleur Y86
+# Ressources
 
-Pendant les TPs, vous manipulerez de l'assembleur Y86 et aurez besoin d'un set de codes sources que voici: [télécharger](./y86sources.zip).
-Voici la liste des fichiers contenus dans cette archive et le numéro de slide correspondant:
-* Slide 38: etiquette.ys
-* Slide 41: boucle-infinie.ys
-* Slide 44: boucle-10.ys
-* Slide 45: si.ys
-* Slide 46: si-sinon.ys
-* Slide 48: indirection.ys
-* Slide 55: pile.ys
-* Slide 56: appel.ys
-* Slide 57: appel-params.ys
-* Slide 59: fonc-standard.ys
+Voici différentes ressources utiles pour suivre cet enseignement.
+* Le diaporama utilisé en cours:
+  [Powerpoint](https://1drv.ms/p/s!AqGLVIYeeJoUgZkvP9kIIPmbF6xetQ),
+  [Version PDF](https://1drv.ms/b/s!AqGLVIYeeJoUgZwk195w_zssQYPzXw?e=7KoptW)
+* Le
+  [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
+  Y86
+* Les codes sources utilisés en TP: [Fichier zip](./y86sources.zip)
+* Le [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) de circuits
 
-Tout les codes peuvent être compilés sur la plateforme suivante: [Y86 simulator](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/index.html)
-
-# Ressources en ligne
+# Pour aller plus loin
 
 Voici différentes ressources disponibles en ligne.
 
-* Les slides du cours présentées lors du bloc 3: [Fichier powerpoint](https://1drv.ms/p/s!AqGLVIYeeJoUgZkvP9kIIPmbF6xetQ)
-* Le lien vers le [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/) à l'université
-* Le [simulateur](https://kazuhikoarase.github.io/simcirjs) de circuit que vous allez utiliser en TP
-* Le [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/index.html) Y86
+* Le lien vers le
+  [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/)
+  de l'université de Bordeaux
+* Le lien vers le cours d’architecture à Carnegie Mellon University [site](https://csapp.cs.cmu.edu/)
