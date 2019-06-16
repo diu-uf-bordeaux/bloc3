@@ -3,12 +3,12 @@ layout: article
 title: Architectures matérielles et robotique, systèmes et réseaux
 ---
 
+- Emploi du temps: [Version PDF](./edt/EDT-bloc3.pdf)
 - [Architecture des circuits](./archi)
 - [Robotique et systèmes embarqués](./robot)
 - Systèmes d'exploitation
 - [Réseaux](https://moodle1.u-bordeaux.fr/course/view.php?id=4713)
 
-- Emploi du temps: [Version PDF](./edt/EDT-bloc3.pdf)
 
 ## Suggestion de thématiques pour le projet
 
