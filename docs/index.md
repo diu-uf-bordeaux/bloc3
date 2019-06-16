@@ -16,8 +16,8 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 - Réalisation des boucles usuelles en assembleur (for, while, do-while)
 - Manipulation des tableaux
 - La pile et l'appel de fonctions
-- l'unité arithmétique et logique d'un processeur
-- implémentation des registres dans un processeur
+- L'unité arithmétique et logique d'un processeur
+- Implémentation des registres dans un processeur
 - ...
 
 ### Robotique et systèmes embarqués
