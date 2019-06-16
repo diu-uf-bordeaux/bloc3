@@ -28,4 +28,4 @@ Voici différentes ressources disponibles en ligne.
 * Le lien vers le
   [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/)
   de l'université de Bordeaux
-* Le lien vers le cours d’architecture à Carnegie Mellon University [site](https://csapp.cs.cmu.edu/)
+* Le lien vers le [cours d’architecture](https://csapp.cs.cmu.edu/) à Carnegie Mellon University
