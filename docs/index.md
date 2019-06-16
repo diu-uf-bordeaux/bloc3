@@ -8,6 +8,8 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 - [Systèmes d'exploitation](#)
 - [Réseaux](https://moodle1.u-bordeaux.fr/course/view.php?id=4713)
 
+- [Emploi du temps](./edt/EDT-bloc3.pdf)
+
 ## Suggestion de thématiques pour le projet
 
 ### Architecture des circuits
