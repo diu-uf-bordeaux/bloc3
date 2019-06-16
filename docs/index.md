@@ -42,7 +42,14 @@ title: Architectures matérielles et robotique, systèmes et réseaux
 - Système "fuyant" en présence de bruit/lumière
 
 ### Systèmes d'exploitation
-- TODO
+- L'arborescence de fichier: parcourir, créer/détruire des répertoires/fichiers
+- Les droits d'accès aux fichiers
+- Les appels systèmes
+- Partage des ressources:
+  - Ordonnancement des processus (intérêt de mettre des processus en attente)
+  - Partage de la mémoire
+- La création de processus
+- Mémoire virtuelle 
 
 ### Réseaux
 - Fiabilisation des communications : code détecteur d'erreurs. Du bit de parité (simple et double) au CRC
