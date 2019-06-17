@@ -19,3 +19,4 @@ while True:
     print('Disconnected by', addr)
     sclient.close()
 
+s.close()
