@@ -31,3 +31,6 @@ Voici différentes ressources disponibles en ligne.
   [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/)
   de l'université de Bordeaux
 * Le lien vers le [cours d’architecture](https://csapp.cs.cmu.edu/) à Carnegie Mellon University
+* Un simulateur en ligne très simple :
+[AMIL](http://www.fil.univ-lille1.fr/~levaire/amill1s1/)
+* Un simulateur de l'ordinateur [Dauphin](https://www.epsitec.ch/dauphin/) (Pour plateforme Windows)
