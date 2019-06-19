@@ -19,9 +19,11 @@ Voici différentes ressources utiles pour suivre cet enseignement.
   vous aider !
 * Le
   [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
-  Y86
+  Y86 en ligne
 * Les codes sources utilisés en TP: [Fichier zip](./y86sources.zip)
-* Le [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html) de circuits
+* Le
+  [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/circuits/blank-teacher.html)
+  de circuits en ligne
 
 # Pour aller plus loin
 
@@ -31,3 +33,6 @@ Voici différentes ressources disponibles en ligne.
   [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/)
   de l'université de Bordeaux
 * Le lien vers le [cours d’architecture](https://csapp.cs.cmu.edu/) à Carnegie Mellon University
+* Un simulateur en ligne de microprocesseur très simple :
+[AMIL](http://www.fil.univ-lille1.fr/~levaire/amill1s1/)
+* Un simulateur de l'ordinateur [Dauphin](https://www.epsitec.ch/dauphin/) (Pour plateforme Windows)
