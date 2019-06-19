@@ -35,4 +35,14 @@ Voici différentes ressources disponibles en ligne.
 * Le lien vers le [cours d’architecture](https://csapp.cs.cmu.edu/) à Carnegie Mellon University
 * Un simulateur en ligne de microprocesseur très simple :
 [AMIL](http://www.fil.univ-lille1.fr/~levaire/amill1s1/)
-* Un simulateur de l'ordinateur [Dauphin](https://www.epsitec.ch/dauphin/) (Pour plateforme Windows)
+* Un simulateur de l'ordinateur
+[Dauphin](https://www.epsitec.ch/dauphin/) (Pour plateforme Windows)
+* Le simulateur de circuit [Logisim Evolution](https://github.com/reds-heig/logisim-evolution) (en Java)
+
+Un petit diaporama (incluant des vidéos) qui illustre, sur l'exemple du
+calcul fractal de l'ensemble de Mandelbrot, les gains accesibles en
+exploitant les capacités des processeurs modernes.
+
+* Version en ligne :
+[Mandelbrot](https://1drv.ms/p/s!AqGLVIYeeJoUgZwnUEoxUkOW7NCfZw?e=lAeyiG)
+* Télécharger : [mandel.pptx, 122Mo](http://raymond.namyst.emi.u-bordeaux.fr/no_link/DIU/)
