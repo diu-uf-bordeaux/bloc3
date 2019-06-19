@@ -14,7 +14,9 @@ formant un microprocesseur.
 Voici différentes ressources utiles pour suivre cet enseignement.
 * Le diaporama utilisé en cours:
   [Powerpoint](https://1drv.ms/p/s!AqGLVIYeeJoUgZkvP9kIIPmbF6xetQ),
-  [Version PDF](https://1drv.ms/b/s!AqGLVIYeeJoUgZwk195w_zssQYPzXw?e=7KoptW)
+  [Version PDF](https://1drv.ms/b/s!AqGLVIYeeJoUgZwk195w_zssQYPzXw?e=7KoptW). Vous
+  êtes libres de réutiliser et de modifier le diaporama si cela peut
+  vous aider !
 * Le
   [simulateur](http://dept-info.labri.fr/ENSEIGNEMENT/archi/js-y86/)
   Y86
