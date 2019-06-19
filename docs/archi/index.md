@@ -45,4 +45,5 @@ exploitant les capacités des processeurs modernes.
 
 * Version en ligne :
 [Mandelbrot](https://1drv.ms/p/s!AqGLVIYeeJoUgZwnUEoxUkOW7NCfZw?e=lAeyiG)
-* Télécharger : [mandel.pptx, 122Mo](http://raymond.namyst.emi.u-bordeaux.fr/no_link/DIU/)
+* Télécharger :
+  [mandel.pptx](http://raymond.namyst.emi.u-bordeaux.fr/no_link/DIU/) (122Mo)
