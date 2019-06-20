@@ -9,6 +9,8 @@ langage assembleur. La seconde partie s’attache à décrire
 l’organisation des principaux circuits combinatoires et séquentiels
 formant un microprocesseur.
 
+Contact: [raymond.namyst@u-bordeaux.fr](mailto:raymond.namyst@u-bordeaux.fr)
+
 # Ressources
 
 Voici différentes ressources utiles pour suivre cet enseignement.
