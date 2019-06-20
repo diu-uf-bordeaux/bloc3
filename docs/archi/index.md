@@ -40,7 +40,7 @@ Voici différentes ressources disponibles en ligne.
 * Le simulateur de circuit [Logisim Evolution](https://github.com/reds-heig/logisim-evolution) (en Java)
 
 Un petit diaporama (incluant des vidéos) qui illustre, sur l'exemple du
-calcul fractal de l'ensemble de Mandelbrot, les gains accesibles en
+calcul fractal de l'ensemble de Mandelbrot, les gains accessibles en
 exploitant les capacités des processeurs modernes.
 
 * Version en ligne :
