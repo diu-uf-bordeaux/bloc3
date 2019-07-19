@@ -22,6 +22,14 @@ Double-cliquez sur le fichier `blank.html` : cela devrait lancer le simulateur d
 
 # Ajout d'un circuit
 
-Voici différentes ressources disponibles en ligne.
+Pour pouvoir ajouter votre circuit préféré dans la base des circuits réutilisables,
+il faut spécifier ses entrées et ses sorties à l'aide de boîtes **in** et **out**.
+
+Dans l'exemple ci-dessous, on a utilisé un générateur (DC) ainsi que deux interrupteurs
+(PushOff) pour tester un petit circuit, mais ces éléments ne font pas partie de notre circuit (remarquez l'insertion des boîtes *in* entre les interrupteurs et notre circuit).
+
+![image1](in-et-out.png)
+
+
 
 
