@@ -31,6 +31,7 @@ Voici différentes ressources utiles pour suivre cet enseignement.
 
 Voici différentes ressources disponibles en ligne.
 
+* Pour enrichir la base de circuits existante, [suivez le guide](guide_simcir.md)
 * Le lien vers le
   [cours d'architecture](http://dept-info.labri.fr/ENSEIGNEMENT/archi/)
   de l'université de Bordeaux
