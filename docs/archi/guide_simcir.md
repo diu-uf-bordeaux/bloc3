@@ -30,6 +30,7 @@ Dans l'exemple ci-dessous, on a utilisé un générateur (DC) ainsi que deux int
 
 ![image1](in-et-out.png)
 
+Parfait. Maintenant, un Ctrl-Click (ou Command-Click sur Mac) sur le circuit vous affiche sa description textuelle :
 
-
+![image2](desc-circuit.png)
 
