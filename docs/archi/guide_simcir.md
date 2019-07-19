@@ -6,7 +6,7 @@ title: Guide d'extension du simulateur de circuits SimCir
 Note: ce petit quide vous propose de partir de la version du simulateur enrichie
 par l'équipe enseignante de l'Université de Bordeaux. Toutefois, vous pouvez partir
 du [simulateur d'origine](https://kazuhikoarase.github.io/simcirjs/) et suivre les indications
-dans la rubrique "Embed your circuit".
+dans la rubrique "Reuse your circuit".
 
 Contact: [raymond.namyst@u-bordeaux.fr](mailto:raymond.namyst@u-bordeaux.fr)
 
