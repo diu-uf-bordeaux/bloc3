@@ -16,9 +16,9 @@ Pour enrichir la base de circuit existante du simulateur, vous devez d'abord ré
 complet du simulateur (essentiellement des fichiers javascript).
 L'archive zip peut être téléchargée [ici](Simulateur_Circuits.zip)
 
-Une fois l'archive décompressée, le répertoire *Simulateur_Circuits* contient tous les fichiers
+Une fois l'archive décompressée, le répertoire `Simulateur_Circuits/` contient tous les fichiers
 nécessaires au fonctionnement du simulateur en local sur votre machine.
-Double-cliquez sur le fichier *blank.html* : cela devrait lancer le simulateur dans votre navigateur !
+Double-cliquez sur le fichier `blank.html` : cela devrait lancer le simulateur dans votre navigateur !
 
 # Ajout d'un circuit
 
