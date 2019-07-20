@@ -47,5 +47,5 @@ Ca y est ! Si vous rechargez la page `blank-teacher.html`, vous trouverez votre 
 
 Pour que les élèves puissent utiliser votre base de circuits sans pour autant récupérer l'archive complète sur leur compte, il suffit que vous placiez le répertoire `Simulateur_Circuits/` sur un serveur web.
 
-Si vous ne souhaitez pas qu'ils aient accès à tous les circuits, regardez comment la liste sélective des circuits est proposée dans le fichier ``blank.html`.
+Si vous ne souhaitez pas qu'ils aient accès à tous les circuits, regardez comment la liste sélective des circuits est proposée dans le fichier `blank.html`.
 
