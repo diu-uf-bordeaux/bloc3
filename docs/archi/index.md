@@ -40,7 +40,12 @@ Voici différentes ressources disponibles en ligne.
 [AMIL](http://www.fil.univ-lille1.fr/~levaire/amill1s1/)
 * Un simulateur de l'ordinateur
 [Dauphin](https://www.epsitec.ch/dauphin/) (Pour plateforme Windows)
-* Le simulateur de circuit [Logisim Evolution](https://github.com/reds-heig/logisim-evolution) (en Java)
+* Le simulateur de circuit
+  [Logisim Evolution](https://github.com/reds-heig/logisim-evolution)
+  (en Java)
+* L'[explorateur de compilateurs en ligne](https://godbolt.org) qui
+  permet de voir l'assembleur généré par un compilateur en fonction
+  des options utilisées
 
 Un petit diaporama (incluant des vidéos) qui illustre, sur l'exemple du
 calcul fractal de l'ensemble de Mandelbrot, les gains accessibles en
