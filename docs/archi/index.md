@@ -18,7 +18,7 @@ Voici différentes ressources utiles pour suivre cet enseignement.
   [Powerpoint](https://1drv.ms/p/s!AqGLVIYeeJoUgZkvP9kIIPmbF6xetQ),
   [Version PDF](https://1drv.ms/b/s!AqGLVIYeeJoUgZwk195w_zssQYPzXw?e=7KoptW). Vous
   êtes libres de réutiliser et de modifier le diaporama si cela peut
-  vous aider !
+  vous être utile !
 * Le
   [simulateur](https://dept-info.labri.fr/ENSEIGNEMENT/archi/y86js_v1/index.html)
   Y86 en ligne
