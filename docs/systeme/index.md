@@ -18,3 +18,8 @@ Voici différentes ressources disponibles en ligne.
   [vidéo introductive aux systèmes d'exploitation](https://youtu.be/np5SDSeTdAY)
   conçue à l'Université de Bordeaux
 
+* Une série d'exercice de manipulation des scripts bash se trouve [ici](https://cours-mf.gitlabpages.inria.fr/if104/exercices/)
+
+* Un exercice plus avancé de [chasse au trésor](https://cours-mf.gitlabpages.inria.fr/if104/chasse/).
+
+* Un autre exemple d'exercice avancé de shell sur [starwars](./starwars)
