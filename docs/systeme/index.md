@@ -23,3 +23,7 @@ Voici différentes ressources disponibles en ligne.
 * Un exercice plus avancé de [chasse au trésor](https://cours-mf.gitlabpages.inria.fr/if104/chasse/).
 
 * Un autre exemple d'exercice avancé de shell sur [starwars](./starwars)
+
+* Série d'exercices des collègues de [Telecom SudParis](http://www-inf.telecom-sudparis.eu/cours/CSC3102/Supports/):
+  * CI5: exercice sur la manipulation des processus (recquiert un compilateur C)
+  * CI6 et CI7 sur les inter-blocage dans la même veine que l'exercice système du BAC de cette année
