@@ -75,9 +75,9 @@ On s'assurera de renvoyer:
 
 Pour aller plus loin:
 
-	* retourner le nombre de ces apparitions
-	* limiter le listing uniquement à un type de media
-	* ...
+ * retourner le nombre de ces apparitions
+ * limiter le listing uniquement à un type de media
+ * ...
 	
 ## Utilisation d'analyse de la taille des répertoires
 
@@ -85,7 +85,7 @@ Trouver la commande qui permet d'afficher la taille de chaque région de la gala
 
 Pour aller plus loin:
 
-	* Trier les régions de la galaxie par taille
-    * Afficher uniquement la région la plus grande (la plus petite)
+ * Trier les régions de la galaxie par taille
+ * Afficher uniquement la région la plus grande (la plus petite)
 	
 
